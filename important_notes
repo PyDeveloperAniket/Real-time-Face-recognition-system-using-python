@@ -1,0 +1,7 @@
+ download data set::
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+install sklearn ::
+https://stackoverflow.com/questions/38865708/how-can-i-run-python-scikit-learn-on-raspberry-pi
+
+command :: pip3 install scikit-learn --index-url https://piwheels.org/simple
